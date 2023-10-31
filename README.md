@@ -26,6 +26,11 @@ I have worked on several projects that highlight my skills and expertise. Some o
 
 - [Project 3](link-to-project-3): An Excel-based financial model that helped forecast sales and optimize inventory management for a startup.
 
+## Skills
+
+![Python Logo](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) ![Pandas Logo](https://img.shields.io/badge/-Pandas-150458?logo=pandas&logoColor=white) ![NumPy Logo](https://img.shields.io/badge/-NumPy-013243?logo=numpy&logoColor=white) ![SQL Logo](https://img.shields.io/badge/-SQL-4479A1?logo=sql&logoColor=white) ![Lookerstudio Logo](https://img.shields.io/badge/-Lookerstudio-FF6F61?logo=looker&logoColor=white) ![Tableau Logo](https://img.shields.io/badge/-Tableau-E97627?logo=tableau&logoColor=white) ![Google Analytics Logo](https://img.shields.io/badge/-Google%20Analytics-E37400?logo=google-analytics&logoColor=white) ![WordPress Logo](https://img.shields.io/badge/-WordPress-21759B?logo=wordpress&logoColor=white)
+
+
 ## Get in Touch
 I'm always open to collaborating on data-related projects or discussing new opportunities. If you'd like to connect or have any questions, feel free to reach out to me here on GitHub or through [LinkedIn](link-to-your-linkedin-profile).
 
